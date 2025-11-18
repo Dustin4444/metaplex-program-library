@@ -60,7 +60,7 @@
     "@types/debug": "^4.1.7",
     "@types/tape": "^4.13.2",
     "debug": "^4.3.3",
-    "eslint": "^8.3.0",
+    "eslint": "^9.0.0",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2",
     "supports-color": "^9.2.1",
