@@ -43,7 +43,7 @@
     "@metaplex-foundation/beet": "^0.7.1",
     "@metaplex-foundation/beet-solana": "^0.4.0",
     "@metaplex-foundation/cusper": "^0.0.2",
-    "@metaplex-foundation/js": "^0.17.5",
+    "@metaplex-foundation/js": "^0.20.1",
     "@metaplex-foundation/mpl-token-metadata": "^2.5.1",
     "@project-serum/anchor": "0.25.0",
     "@solana/spl-token": "^0.3.6",
@@ -64,15 +64,15 @@
     "@typescript-eslint/parser": "^5.4.0",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
-    "eslint": "^8.3.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "mocha": "10.1.0",
+    "mocha": "10.6.0",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2",
     "style-loader": "^3.3.1",
     "ts-loader": "^9.2.3",
-    "ts-mocha": "10.0.0",
+    "ts-mocha": "11.0.0",
     "typescript": "^4.6.2"
   }
 }
